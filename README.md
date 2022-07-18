@@ -1,7 +1,7 @@
 
 # Runway-Detector-Satellite-Imagery
 
-Hi y'all. You can detect/segment runways with this repo.
+You can detect/segment runways with this repo.
 
 ![App Screenshot](https://github.com/mahmutgemici0/Runway-Detector-Satellite-Imagery/blob/main/airport_dataset/runway/raw_data/2.png?raw=true)
 
