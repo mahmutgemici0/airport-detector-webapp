@@ -20,9 +20,9 @@ path/to/repo/ $ streamlit run main.py
 
 
 ## Install & Run Locally
-Install Git-lfs https://git-lfs.github.com/
+<!-- Install Git-lfs https://git-lfs.github.com/ -->
 
-- Linux
+<!-- - Linux
 ```
   sudo apt-get install git-lfs
 ```
@@ -34,7 +34,7 @@ Initialize Git-LFS
 ```
   git install git-lfs
 ```
-Clone the project
+Clone the project -->
 
 ```bash
   git clone https://github.com/mahmutgemici0/Runway-Detector-Satellite-Imagery.git
