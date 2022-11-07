@@ -17,7 +17,7 @@ st.title('Airport Detection on Satellite Imagery')
 
 lat = st.sidebar.number_input("Latitude", value=40.853894)
 lon = st.sidebar.number_input("Longitude", value=-74.060218)
-zoom = st.sidebar.number_input("Zoom", value=15)
+zoom = st.sidebar.number_input("Zoom", value=14)
 
 #Display the coordinate on map
 df = pd.DataFrame({"lat": [lat], "lon": [lon], "zoom": [zoom]})

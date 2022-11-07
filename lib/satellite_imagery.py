@@ -3,7 +3,7 @@ import urllib.request
 import os, cv2, math
 import numpy as np
 endpoint = 'https://maps.googleapis.com/maps/api/staticmap?' #API calls are sent here. Will probably remain the same unless something happens
-api_key = 'AIzaSyAQO7DYu4G_-EFHYBlqa8G1hs3fiqJeSJs' # enter your API key
+api_key = '' # enter your API key
 maptype = 'satellite' #maps can also be retrieved, but helipads are only visible from satellite imagery
 size = [640,640] #Note max size of imagery is 640 x 640. As the desired image will typically be of this size, and can be altered after collection, this will be fixed.
 
